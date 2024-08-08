@@ -1,0 +1,4 @@
+npx create-react-app client
+npm install -D tailwindcss
+npx tailwindcss init
+npm install socket.io-client
